@@ -140,6 +140,7 @@ main {
   height: 40px;
   padding-block: 0.5rem;
   border-radius: 6px;
+  font-size: 0.8rem;
 
   /* Create a new stacking-context separate, see z-index below */
   isolation: isolate;
