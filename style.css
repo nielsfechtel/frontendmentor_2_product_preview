@@ -161,10 +161,8 @@ main {
   background-color: var(--color-primary-1);
 }
 
-.order-button:hover {
-  .order-button::before {
-    filter: brightness(60%);
-  }
+.order-button:hover::before {
+  filter: brightness(60%);
 }
 
 @media screen and (width <= 800px) {
