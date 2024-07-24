@@ -1,7 +1,7 @@
 # Frontend Mentor - Product Preview Solution
 
 Hi, Niels here.
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). [Hosted on GH Pages](https://nielsfechtel.github.io/frontendmentor_2_product_review/).
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). [Hosted on GH Pages](https://nielsfechtel.github.io/frontendmentor_2_product_preview/).
 
 ## Table of contents
 
